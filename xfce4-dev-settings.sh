@@ -4,6 +4,13 @@
 #
 
 xfce_src_dir="src"
+xfce_prefix="/opt/xfce4"
+xfce_debug=0
+xfce_cflags="-O2 -pipe"
+xfce_cflags_debug=""
+xfce_build_log="build.log"
+xfce_clean_before_building=1
+
 # EDIT IF YOU KNOW WHAT YOU ARE DOING :)
 xfce_git_url="git://git.xfce.org"
 xfce_git_command="git"
