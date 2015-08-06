@@ -6,6 +6,8 @@
 
 **xfce4-dev-install.sh** installs everything
 
+**xfce4-dev-settings.sh** contains some settings you may want to customize
+
 These scripts have to be considered as alpha version.
 
 I wrote them to make my life a lot easier :)
